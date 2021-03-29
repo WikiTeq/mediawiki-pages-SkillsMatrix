@@ -1,0 +1,7 @@
+<includeonly>{{#ask:
+[[{{{1|}}}]]
+|?Name
+|format=plainlist
+|template=Get linked user name
+|link=none
+}}</includeonly>
