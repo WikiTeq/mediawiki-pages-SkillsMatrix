@@ -48,6 +48,51 @@
                     "name": "Name",
                     "namespace": "SMW_NS_PROPERTY",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Property%2FName.mediawiki"
+                },
+                {
+                    "name": "Infobox Employee",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FInfobox%20Employee.mediawiki"
+                },
+                {
+                    "name": "Skill",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FSkill.mediawiki"
+                },
+                {
+                    "name": "Apprentice Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FApprentice%20Editor.mediawiki"
+                },
+                {
+                    "name": "External access",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FExternal%20access.mediawiki"
+                },
+                {
+                    "name": "Lxx",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FLxx.mediawiki"
+                },
+                {
+                    "name": "Service awards",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FService%20awards.mediawiki"
+                },
+                {
+                    "name": "Clear",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FClear.mediawiki"
+                },
+                {
+                    "name": "Note",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FNote.mediawiki"
+                },
+                {
+                    "name": "Infobox Employee",
+                    "namespace": "PF_NS_FORM",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Form%2FInfobox%20Employee.mediawiki"
                 }
             ],
             "requiredExtensions": []

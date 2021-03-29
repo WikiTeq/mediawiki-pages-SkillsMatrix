@@ -1,0 +1,77 @@
+{{#switch: true
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Vanguard Editor|50000}} | true | false }} = {{Vanguard Editor}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Grandmaster Editor First-Class|40000}} | true | false }} = {{Grandmaster Editor First-Class}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Grandmaster Editor|30000}} | true | false }} = {{Grandmaster Editor}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Master Editor IV|25000}} | true | false }} = {{Master Editor IV}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Master Editor III|20000}} | true | false }} = {{Master Editor III}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Master Editor II|15000}} | true | false }} = {{Master Editor II}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Master Editor|10000}} | true | false }} = {{Master Editor}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Senior Editor III|7000}} | true | false }} = {{Senior Editor III}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Senior Editor II|5000}} | true | false }} = {{Senior Editor II}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Senior Editor|3000}} | true | false }} = {{Senior Editor}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Veteran Editor IV|2000}} | true | false }} = {{Veteran Editor IV}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Veteran Editor III|1000}} | true | false }} = {{Veteran Editor III}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Veteran Editor II|500}} | true | false }} = {{Veteran Editor II}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Veteran Editor|200}} | true | false }} = {{Veteran Editor}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Experienced Editor|100}} | true | false }} = {{Experienced Editor}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Yeoman Editor|50}} | true | false }}  = {{Yeoman Editor}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Journeyman Editor|30}} | true | false }}  = {{Journeyman Editor}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Apprentice Editor|20}} | true | false }}  = {{Apprentice Editor}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Novice Editor|10}} | true | false }}   = {{Novice Editor}}
+ | {{#ifexpr: {{formatnum:{{#useredits:{{PAGENAME}}}}|R}} >= {{#vardefineecho:Registered Editor|1}} | true | false }}    = {{Registered Editor}}
+ | #default = 
+}}<noinclude>
+
+{{clear}}
+==Usage==
+Place the following on your user page:
+<pre>{{Service awards}}</pre>
+
+
+==Requirements quick list==
+{| class="wikitable"
+|-
+!  !! Award !! Edits
+|-
+| 1||Registered Editor||align=right|{{formatnum:{{#var:Registered Editor}}}}
+|-
+| 2||Novice Editor||align=right|{{formatnum:{{#var:Novice Editor}}}}
+|-
+| 3||Apprentice Editor||align=right|{{formatnum:{{#var:Apprentice Editor}}}}
+|-
+| 4||Journeyman Editor||align=right|{{formatnum:{{#var:Journeyman Editor}}}}
+|-
+| 5||Yeoman Editor||align=right|{{formatnum:{{#var:Yeoman Editor}}}}
+|-
+| 6||Experienced Editor||align=right|{{formatnum:{{#var:Experienced Editor}}}}
+|-
+| 7||Veteran Editor||align=right|{{formatnum:{{#var:Veteran Editor}}}}
+|-
+| 8||Veteran Editor II||align=right|{{formatnum:{{#var:Veteran Editor II}}}}
+|-
+| 9||Veteran Editor III||align=right|{{formatnum:{{#var:Veteran Editor III}}}}
+|-
+| 10||Veteran Editor IV||align=right|{{formatnum:{{#var:Veteran Editor IV}}}}
+|-
+| 11||Senior Editor||align=right|{{formatnum:{{#var:Senior Editor}}}}
+|-
+| 12||Senior Editor II||align=right|{{formatnum:{{#var:Senior Editor II}}}}
+|-
+| 13||Senior Editor III||align=right|{{formatnum:{{#var:Senior Editor III}}}}
+|-
+| 14||Master Editor||align=right|{{formatnum:{{#var:Master Editor}}}}
+|-
+| 15||Master Editor II||align=right|{{formatnum:{{#var:Master Editor II}}}}
+|-
+| 16||Master Editor III||align=right|{{formatnum:{{#var:Master Editor III}}}}
+|-
+| 17||Master Editor IV||align=right|{{formatnum:{{#var:Master Editor IV}}}}
+|-
+| 18||Grandmaster Editor||align=right|{{formatnum:{{#var:Grandmaster Editor}}}}
+|-
+| 19||Grandmaster Editor First-Class||align=right|{{formatnum:{{#var:Grandmaster Editor First-Class}}}}
+|-
+| 20||Vanguard Editor||align=right|{{formatnum:{{#var:Vanguard Editor}}}}
+|}
+
+</noinclude>

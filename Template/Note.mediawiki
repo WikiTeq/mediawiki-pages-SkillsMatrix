@@ -1,0 +1,7 @@
+[[File:Bulbgraph.png|18px|Note|link=]]&nbsp;'''Note:'''&nbsp;&nbsp;{{{1|}}}<noinclude>
+== Usage ==
+Lightbulb Note:
+<pre><nowiki>
+{{Note|Your note text}}
+</nowiki></pre>
+</noinclude>

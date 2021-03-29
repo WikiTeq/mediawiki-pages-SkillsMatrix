@@ -1,0 +1,74 @@
+{| class="altRowsMed" style="margin: 0 0 0 0;  border:1px solid silver; float:right; text-align:left; font-size:90%; margin-left:.5em;" cellpadding="5"; width=230px
+! colspan="2" style="font-size:110%; text-align:center; border:1px solid #46723c; padding: 0px" | <div style="background: {{ #if: {{{contractor|}}} | #fcc078; | #78cffc; }} "> {{ #if: {{{name|}}} | <big>[[Name::{{{name}}}]]</big> | <big>{{PAGENAME}}</big> }} <br /> {{ #if: {{{contractor|}}} | [[:Category:External users|External users]] &nbsp; &nbsp; {{gender:{{BASEPAGENAME}}|[[File:User male.png|28px]]|[[File:woman.png|28px]]|[[File:user.png|28px]]  }} | [[:Category:Users|Employee]] &nbsp; &nbsp; {{gender:{{BASEPAGENAME}}|[[File:User male.png|28px|link=]]|[[File:woman.png|28px|link=]]|[[File:user.png|28px|link=]]  }} }}  {{lxx|User:|{{SUBPAGENAME}}|User talk|talk}}</div>
+ |- valign="top"
+{{ #if: {{{title|}}} | {{!}} [[:Category:Job descriptions|Title]]: {{!}}{{!}} <tt>{{{title}}}</tt> }}
+ |- valign="top"
+{{ #if: {{{contractor|}}} | {{!}} Company: {{!}}{{!}} [[{{{department}}}]] | {{ #if: {{{department|}}} | {{!}} [[:Category:Departments|Department]]: {{!}}{{!}} [[{{{department}}}]] }} }}{{#set:Department={{{department|}}}}}
+ |- valign="top"
+{{ #if: {{{division|}}} | {{!}} [[:Category:Divisions|Division]]: {{!}}{{!}} [[{{{division}}}]] }}
+ |- valign="top"
+{{ #if: {{{boss|}}} | {{!}} Supervisor: {{!}}{{!}} {{{boss}}} }}
+ |- valign="top"
+{{ #if: {{{startdate|}}} | {{!}} Start Date: {{!}}{{!}} {{{startdate}}} }}
+ |- valign="top"
+{{ #if: {{{enddate|}}} | {{!}} End Date: {{!}}{{!}} {{{enddate}}} }}
+ |- valign="top"
+{{ #if: {{{expertise|}}} | {{!}} Related Expertise: {{!}}{{!}} {{{expertise}}} }}
+ |- valign="top"
+{{!}} colspan="2"  style="font-Size:100%; text-align:center; border:1px solid #46723c; padding: 2px" | <div style="background: {{ #if: {{{contractor|}}} | #fcc078; | #78cffc; }}">Contact Info</div>
+ |- valign="top"
+{{!}} colspan="2" | {{ #if: {{{email|}}} | &nbsp; &nbsp; &nbsp; [mailto:{{{email}}} {{{email}}}] }}
+ |- valign="top"
+{{ #if: {{{office|}}} | {{!}} Office: {{!}}{{!}} {{{office}}} }}
+ |- valign="top"
+{{ #if: {{{cell|}}} | {{!}} Cell: {{!}}{{!}} {{{cell}}} }}
+ |- valign="top"
+{{ #if: {{{birthday|}}} | {{!}} Birthday: {{!}}{{!}} {{{birthday}}} }}
+ |- valign="middle"
+{{!}} colspan="2"  style="border:1px solid #46723c; padding: 2px" | <div style=" background: #EFEFEF; font-size:110%; text-align:center;"> {{ #if: {{{image|}}} | [[File:{{{image}}}|center|240px]] {{{caption|{{{name|{{PAGENAME}}}}}}}} }}</div>
+{{ #if: {{{skills|}}}|
+{{!}}- valign="top"
+{{!}} colspan="2"  style="font-Size:100%; text-align:center; border:1px solid #46723c; padding: 2px" {{!}} <div style="background: {{ #if: {{{contractor|}}} | #fcc078; | #78cffc; }}">Areas of expertise</div>
+{{!}}-
+{{!}}colspan="2" style="text-align:center;"{{!}}{{#arraymap:{{{skills|}}}|;|x|'''[[x]]'''}}
+}}
+{{!}}-
+{{!}}colspan="2" style="text-align:center;"{{!}}{{#ask:
+[[-Has subobject::{{FULLPAGENAME}}]]
+[[Level::+]]
+ |?Skill
+ |?Level
+ |format=template
+ |link=all
+ |sort=Skill
+ |headers=show
+ |mainlabel=-
+ |intro=<table class="wikitable">
+ |outro=</table>
+ |searchlabel=... further results
+ |valuesep=,
+ |template=User skill
+ |limit=0
+ |searchlabel=Show full skill matrix
+}}
+
+|}<includeonly>
+
+{{ #if: {{{contractor|}}} | [[Category:External users]] | [[Category:Users]]}}  
+{{ #if: {{{department|}}} | [[Category:{{{department}}} users]] }}
+{{ #if: {{{division|}}} | [[Category:{{{division}}} users]] }}
+{{ #if: {{{enddate|}}} | [[Category:Former employees]] }}
+</includeonly><noinclude>
+
+== User Page Creation Wizard==
+{{#forminput:form=Infobox Employee|size=24|button text=Create New User|query string=preload=Template:NewUser&namespace=User|autocomplete on category=|autocomplete on namespace=|placeholder=FirstLast}}
+
+
+
+If you do not already have a home page, press the '''Create''' button above to start your own.
+The fields are blank for you to fill in. Refer to the example below (uses the [[Template:NewUser|New User template]]).
+
+__TOC__
+
+[[Category:Infobox templates]]
+</noinclude>

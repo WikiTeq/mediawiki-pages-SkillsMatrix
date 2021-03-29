@@ -1,0 +1,6 @@
+<br><div style="clear:{{{1|both}}};"></div><br><noinclude>
+==Usage==
+<pre>{{clear}}</pre>
+
+This template adds a break, pushing following content to the next line below nearby floating images or templates.
+</noinclude>
