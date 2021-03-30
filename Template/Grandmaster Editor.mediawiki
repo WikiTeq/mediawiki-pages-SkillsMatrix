@@ -1,0 +1,7 @@
+[[File:GrandmasterEditor.jpg|{{{size|frame}}}|{{{caption|This user is a '''[[Service awards#Grandmaster_Editor|Grandmaster Editor]]''' and is entitled to display this '''Service Badge'''.<br>Edits: {{Special:Editcount/{{PAGENAME}}}} }}}]]<noinclude>
+
+{{clear}}
+==Usage==
+Place the following on your user page:
+<pre>{{Grandmaster Editor}}</pre>
+</noinclude>

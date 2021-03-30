@@ -1,0 +1,7 @@
+[[File:ExperiencedEditor.jpg|{{{size|frame}}}|{{{caption|This user is a '''[[Service awards#Experienced_Editor|Experienced Editor]]''' and is entitled to display this '''Service Badge'''.<br>Edits: {{Special:Editcount/{{PAGENAME}}}} }}}]]<noinclude>
+
+{{clear}}
+==Usage==
+Place the following on your user page:
+<pre>{{Experienced Editor}}</pre>
+</noinclude>

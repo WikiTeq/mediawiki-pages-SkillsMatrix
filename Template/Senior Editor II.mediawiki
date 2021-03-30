@@ -1,0 +1,7 @@
+[[File:SeniorEditorII.jpg|{{{size|frame}}}|{{{caption|This user is a '''[[Service awards#Senior_Editor_II|Senior Editor II]]''' and is entitled to display this '''Service Badge'''.<br>Edits: {{Special:Editcount/{{PAGENAME}}}} }}}]]<noinclude>
+
+{{clear}}
+==Usage==
+Place the following on your user page:
+<pre>{{Senior Editor II}}</pre>
+</noinclude>
