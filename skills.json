@@ -223,6 +223,11 @@
                     "name": "Vanguard Editor",
                     "namespace": "NS_TEMPLATE",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FVanguard%20Editor.mediawiki"
+                },
+                {
+                    "name": "ApprenticeEditor.jpg",
+                    "namespace": "NS_FILE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/File%2FApprenticeEditor.jpg.mediawiki"
                 }
             ],
             "requiredExtensions": []
