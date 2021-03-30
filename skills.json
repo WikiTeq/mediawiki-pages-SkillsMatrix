@@ -60,11 +60,6 @@
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FSkill.mediawiki"
                 },
                 {
-                    "name": "Apprentice Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FApprentice%20Editor.mediawiki"
-                },
-                {
                     "name": "External access",
                     "namespace": "NS_TEMPLATE",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FExternal%20access.mediawiki"
@@ -128,6 +123,106 @@
                     "name": "User skill",
                     "namespace": "NS_TEMPLATE",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FUser%20skill.mediawiki"
+                },
+                {
+                    "name": "Registered Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FRegistered%20Editor.mediawiki"
+                },
+                {
+                    "name": "Novice Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FNovice%20Editor.mediawiki"
+                },
+                {
+                    "name": "Apprentice Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FApprentice%20Editor.mediawiki"
+                },
+                {
+                    "name": "Journeyman Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FJourneyman%20Editor.mediawiki"
+                },
+                {
+                    "name": "Yeoman Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FYeoman%20Editor.mediawiki"
+                },
+                {
+                    "name": "Experienced Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FExperienced%20Editor.mediawiki"
+                },
+                {
+                    "name": "Veteran Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FVeteran%20Editor.mediawiki"
+                },
+                {
+                    "name": "Veteran Editor II",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FVeteran%20Editor%20II.mediawiki"
+                },
+                {
+                    "name": "Veteran Editor III",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FVeteran%20Editor%20III.mediawiki"
+                },
+                {
+                    "name": "Veteran Editor IV",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FVeteran%20Editor%20IV.mediawiki"
+                },
+                {
+                    "name": "Senior Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FSenior%20Editor.mediawiki"
+                },
+                {
+                    "name": "Senior Editor II",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FSenior%20Editor%20II.mediawiki"
+                },
+                {
+                    "name": "Senior Editor III",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FSenior%20Editor%20III.mediawiki"
+                },
+                {
+                    "name": "Master Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FMaster%20Editor.mediawiki"
+                },
+                {
+                    "name": "Master Editor II",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FMaster%20Editor%20II.mediawiki"
+                },
+                {
+                    "name": "Master Editor III",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FMaster%20Editor%20III.mediawiki"
+                },
+                {
+                    "name": "Master Editor IV",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FMaster%20Editor%20IV.mediawiki"
+                },
+                {
+                    "name": "Grandmaster Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FGrandmaster%20Editor.mediawiki"
+                },
+                {
+                    "name": "Grandmaster Editor First-Class",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FGrandmaster%20Editor%20First-Class.mediawiki"
+                },
+                {
+                    "name": "Vanguard Editor",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FVanguard%20Editor.mediawiki"
                 }
             ],
             "requiredExtensions": []
