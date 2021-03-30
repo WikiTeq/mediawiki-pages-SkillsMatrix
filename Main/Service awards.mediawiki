@@ -1,0 +1,98 @@
+Service awards are a simple way of acknowledging an editor's level of contribution to the PG&E Wiki.
+
+It is achieved by a strictly mechanical count of your number of edits which includes all changes you make to the Wiki (edits, new page creation, file updates, new files, etc.). The Wiki [[Template:Service awards|automatically determines]] your edits and displays the correct badge, if you do not want this to show up on your userpage, remove the template <code><nowiki>{{Service awards}}</nowiki></code> from your userpage.
+
+==Awards==
+{| class="wikitable"
+|-
+!  !! Award!! Badge !! Usage !! Edits
+|- style="vertical-align:top;"
+| 1 || <div id="Registered_Editor">Registered Editor</div> || {{Registered Editor}} || <pre>{{Registered Editor}}</pre>|| 1
+|- style="vertical-align:top;"
+| 2 || <div id="Novice_Editor">Novice Editor</div> || {{Novice Editor}} || <pre>{{Novice Editor}}</pre>|| 10
+|- style="vertical-align:top;"
+| 3 || <div id="Apprentice_Editor">Apprentice Editor</div> || {{Apprentice Editor}} || <pre>{{Apprentice Editor}}</pre>|| 20
+|- style="vertical-align:top;"
+| 4 || <div id="Journeyman_Editor">Journeyman Editor</div> || {{Journeyman Editor}} || <pre>{{Journeyman Editor}}</pre>|| 30
+|- style="vertical-align:top;"
+| 5 || <div id="Yeoman_Editor">Yeoman Editor</div> || {{Yeoman Editor}} || <pre>{{Yeoman Editor}}</pre>|| 50
+|- style="vertical-align:top;"
+| 6 || <div id="Experienced_Editor">Experienced Editor</div> || {{Experienced Editor}} || <pre>{{Experienced Editor}}</pre>|| 100
+|- style="vertical-align:top;"
+| 7 || <div id="Veteran_Editor">Veteran Editor</div> || {{Veteran Editor}} || <pre>{{Veteran Editor}}</pre>|| 200
+|- style="vertical-align:top;"
+| 8 || <div id="Veteran_Editor_II">Veteran Editor II</div> || {{Veteran Editor II}} || <pre>{{Veteran Editor II}}</pre>|| 500
+|- style="vertical-align:top;"
+| 9 || <div id="Veteran_Editor_III">Veteran Editor III</div> || {{Veteran Editor III}} || <pre>{{Veteran Editor III}}</pre>|| 1,000
+|- style="vertical-align:top;"
+| 10 || <div id="Veteran_Editor IV">Veteran Editor IV</div> || {{Veteran Editor IV}} || <pre>{{Veteran Editor IV}}</pre>|| 2,000
+|- style="vertical-align:top;"
+| 11 || <div id="Senior_Editor">Senior Editor</div> || {{Senior Editor}} || <pre>{{Senior Editor}}</pre>|| 3,000
+|- style="vertical-align:top;"
+| 12 || <div id="Senior_Editor_II">Senior Editor II</div> || {{Senior Editor II}}  || <pre>{{Senior Editor II}}</pre>|| 5,000
+|- style="vertical-align:top;"
+| 13 || <div id="Senior_Editor_III">Senior Editor III</div> || {{Senior Editor III}}  || <pre>{{Senior Editor III}}</pre>|| 7,000
+|- style="vertical-align:top;"
+| 14 || <div id="Master_Editor">Master Editor</div> || {{Master Editor}}  || <pre>{{Master Editor}}</pre>|| 10,000
+|- style="vertical-align:top;"
+| 15 ||<div id="Master_Editor_II">Master Editor II</div> || {{Master Editor II}}  || <pre>{{Master Editor II}}</pre>|| 15,000
+|- style="vertical-align:top;"
+| 16 || <div id="Master_Editor_III">Master Editor III</div> || {{Master Editor III}}  || <pre>{{Master Editor III}}</pre>|| 20,000
+|- style="vertical-align:top;"
+| 17 || <div id="Master_Editor_IV">Master Editor IV</div> || {{Master Editor IV}}  || <pre>{{Master Editor IV}}</pre>|| 25,000
+|- style="vertical-align:top;"
+| 18 || <div id="Grandmaster_Editor">Grandmaster Editor</div> || {{Grandmaster Editor}}  || <pre>{{Grandmaster Editor}}</pre>|| 30,000
+|- style="vertical-align:top;"
+| 19 || <div id="Grandmaster_Editor_First-Class">Grandmaster Editor First-Class</div> || {{Grandmaster Editor First-Class}}  || <pre>Grandmaster Editor First-Class</pre>|| 40,000
+|- style="vertical-align:top;"
+| 20 || <div id="Vanguard_Editor">Vanguard Editor</div> || {{Vanguard Editor}}  || <pre>{{Vanguard Editor}}</pre>|| 50,000
+|}
+
+==Requirements quick list==
+{| class="wikitable"
+|-
+!  !! Award !! Edits
+|-
+| 1||Registered Editor||align=right|1
+|-
+| 2||Novice Editor||align=right|10
+|-
+| 3||Apprentice Editor||align=right|20
+|-
+| 4||Journeyman Editor||align=right|30
+|-
+| 5||Yeoman Editor||align=right|50
+|-
+| 6||Experienced Editor||align=right|100
+|-
+| 7||Veteran Editor||align=right|200
+|-
+| 8||Veteran Editor II||align=right|500
+|-
+| 9||Veteran Editor III||align=right|1,000
+|-
+| 10||Veteran Editor IV||align=right|2,000
+|-
+| 11||Senior Editor||align=right|3,000
+|-
+| 12||Senior Editor II||align=right|5,000
+|-
+| 13||Senior Editor III||align=right|7,000
+|-
+| 14||Master Editor||align=right|10,000
+|-
+| 15||Master Editor II||align=right|15,000
+|-
+| 16||Master Editor III||align=right|20,000
+|-
+| 17||Master Editor IV||align=right|25,000
+|-
+| 18||Grandmaster Editor||align=right|30,000
+|-
+| 19||Grandmaster Editor First-Class||align=right|40,000
+|-
+| 20||Vanguard Editor||align=right|50,000
+|}
+
+==Reference==
+* https://en.wikipedia.org/wiki/Wikipedia:Service_awards

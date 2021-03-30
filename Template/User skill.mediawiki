@@ -1,0 +1,4 @@
+<includeonly><tr>
+<td>{{{1|}}}</td>
+<td style="text-align: center; background-color: #{{Get color|{{{2|}}}}};">[[Level::{{{2|}}}]]</td>
+</tr></includeonly>

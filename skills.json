@@ -4,9 +4,9 @@
     "language": "en",
     "url": "https:\/\/github.com\/WikiWorks\/Page-Exchange-packages",
     "packages": {
-        "1": {
-            "globalID": "1",
-            "description": 1,
+        "SkillsMatrix": {
+            "globalID": "SkillsMatrix",
+            "description": "Skills matrix from PGE",
             "version": "0.1",
             "pages": [
                 {
@@ -93,6 +93,41 @@
                     "name": "Infobox Employee",
                     "namespace": "PF_NS_FORM",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Form%2FInfobox%20Employee.mediawiki"
+                },
+                {
+                    "name": "Get skill cell",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FGet%20skill%20cell.mediawiki"
+                },
+                {
+                    "name": "Users",
+                    "namespace": "NS_CATEGORY",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Category%2FUsers.mediawiki"
+                },
+                {
+                    "name": "User.png",
+                    "namespace": "NS_FILE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/File%2FUser.png.mediawiki"
+                },
+                {
+                    "name": "ApprenticeEditor.jpg",
+                    "namespace": "NS_FILE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/File%2FApprenticeEditor.jpg.mediawiki"
+                },
+                {
+                    "name": "Service awards",
+                    "namespace": "NS_MAIN",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Main%2FService%20awards.mediawiki"
+                },
+                {
+                    "name": "Bulbgraph.png",
+                    "namespace": "NS_FILE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/File%2FBulbgraph.png.mediawiki"
+                },
+                {
+                    "name": "User skill",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FUser%20skill.mediawiki"
                 }
             ],
             "requiredExtensions": []
