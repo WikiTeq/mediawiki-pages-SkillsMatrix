@@ -100,24 +100,9 @@
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Category%2FUsers.mediawiki"
                 },
                 {
-                    "name": "User.png",
-                    "namespace": "NS_FILE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/File%2FUser.png.mediawiki"
-                },
-                {
-                    "name": "ApprenticeEditor.jpg",
-                    "namespace": "NS_FILE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/File%2FApprenticeEditor.jpg.mediawiki"
-                },
-                {
                     "name": "Service awards",
                     "namespace": "NS_MAIN",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Main%2FService%20awards.mediawiki"
-                },
-                {
-                    "name": "Bulbgraph.png",
-                    "namespace": "NS_FILE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/File%2FBulbgraph.png.mediawiki"
                 },
                 {
                     "name": "User skill",
@@ -223,11 +208,6 @@
                     "name": "Vanguard Editor",
                     "namespace": "NS_TEMPLATE",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FVanguard%20Editor.mediawiki"
-                },
-                {
-                    "name": "ApprenticeEditor.jpg",
-                    "namespace": "NS_FILE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/File%2FApprenticeEditor.jpg.mediawiki"
                 }
             ],
             "requiredExtensions": []
