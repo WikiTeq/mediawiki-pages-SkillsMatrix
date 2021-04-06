@@ -1,6 +1,4 @@
 This is a property of type [[Has type::Text]].
 
-The allowed values for this property are:
-* [[Allows value::E]]
-* [[Allows value::C]]
-* [[Allows value::T]]
+The allowed values for this property are (sourced from [[:Property:Level/Values]]):
+{{Set validation}}
