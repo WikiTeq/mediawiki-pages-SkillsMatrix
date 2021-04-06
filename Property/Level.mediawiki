@@ -1,4 +1,7 @@
 This is a property of type [[Has type::Text]].
 
-The allowed values for this property are (sourced from [[:Property:Level/Values]]):
-{{Set validation}}
+The allowed values for this property are:
+
+* [[Allows value::E]] - Expert
+* [[Allows value::C]] - Competent
+* [[Allows value::T]] - Needs Training
