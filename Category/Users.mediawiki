@@ -1,1 +1,3 @@
 List of Users in this Wiki.
+
+{{#default_form:Infobox Employee}}
