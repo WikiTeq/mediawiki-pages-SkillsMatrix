@@ -30,6 +30,11 @@
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FQuery%20linked%20user%20page.mediawiki"
                 },
                 {
+                    "name": "Skill/Values",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Property%2FSkill|Values.mediawiki"
+                },
+                {
                     "name": "Skill",
                     "namespace": "SMW_NS_PROPERTY",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Property%2FSkill.mediawiki"
@@ -208,6 +213,11 @@
                     "name": "Vanguard Editor",
                     "namespace": "NS_TEMPLATE",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FVanguard%20Editor.mediawiki"
+                },
+                {
+                    "name": "Set validation",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FSet%20validation.mediawiki"
                 }
             ],
             "requiredExtensions": []

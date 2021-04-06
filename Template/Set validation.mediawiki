@@ -1,0 +1,9 @@
+<noinclude>This template is intended to set a list of allowed or suggested values for a Property. It also outputs them as an unordered list. The simplest usage it to create a subpage for a Property called "Values". Then call:
+<pre>{{Set validation}}</pre>
+However, this template will take 2 optional parameters. The first is a property to be set for the values listed in the second parameter. The second is a list of parameters, separated by a newline. So in theory this template can be used to set and display any property to any list of values, similar to the #set: parser function. It requires PageForms.
+</noinclude><includeonly>
+{{#arraymap:
+{{{2|{{{{FULLPAGENAME}}/Values}}}}}
+|\n|x|
+* [[{{{1|Allows value}}}::x]]
+|\n}}</includeonly>

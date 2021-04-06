@@ -1,0 +1,7 @@
+HTML
+CSS
+JavaScript
+PHP
+SQL
+DevOps
+Docker
