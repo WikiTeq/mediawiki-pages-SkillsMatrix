@@ -1,0 +1,17 @@
+<noinclude>
+This is the "Skills" form. It's a partial form.
+
+</noinclude><includeonly>
+{{{info|partial form}}}
+{{{for template|Skill|multiple|label=Add or edit skills}}}
+{| class="formtable" style="width:auto;"
+! Skill: 
+| {{{field|Skill}}}
+! Level: 
+| {{{field|Level}}}
+|}
+{{{end template}}}
+
+
+{{{standard input|save}}} {{{standard input|cancel}}}
+</includeonly>

@@ -1,7 +1,0 @@
-[[File:VeteranEditorIV.jpg|{{{size|frame}}}|{{{caption|This user is a '''[[Service awards#Veteran_Editor_IV|Veteran Editor IV]]''' and is entitled to display this '''Service Badge'''.<br>Edits: {{Special:Editcount/{{PAGENAME}}}} }}}]]<noinclude>
-
-{{clear}}
-==Usage==
-Place the following on your user page:
-<pre>{{Veteran Editor IV}}</pre>
-</noinclude>

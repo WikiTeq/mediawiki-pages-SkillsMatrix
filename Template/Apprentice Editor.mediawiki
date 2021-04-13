@@ -1,7 +1,0 @@
-[[File:ApprenticeEditor.jpg|{{{size|frame}}}|{{{caption|This user is a '''[[Service awards#Apprentice_Editor|Apprentice Editor]]''' and is entitled to display this '''Service Badge'''.<br>Edits: {{Special:Editcount/{{PAGENAME}}}} }}}]]<noinclude>
-
-{{clear}}
-==Usage==
-Place the following on your user page:
-<pre>{{Apprentice Editor}}</pre>
-</noinclude>

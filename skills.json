@@ -1,13 +1,13 @@
 {
     "publisher": "PagePort",
-    "author": "PagePort",
+    "author": "WikiTeq",
     "language": "en",
     "url": "https:\/\/github.com\/WikiWorks\/Page-Exchange-packages",
     "packages": {
-        "SkillsMatrix": {
-            "globalID": "SkillsMatrix",
-            "description": "Skills matrix from PGE",
-            "version": "0.1",
+        "Skills matrix": {
+            "globalID": "Skills.matrix",
+            "description": "Skills matrix",
+            "version": "1",
             "pages": [
                 {
                     "name": "Skills matrix",
@@ -30,6 +30,11 @@
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FQuery%20linked%20user%20page.mediawiki"
                 },
                 {
+                    "name": "Get skill cell",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FGet%20skill%20cell.mediawiki"
+                },
+                {
                     "name": "Skill",
                     "namespace": "SMW_NS_PROPERTY",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Property%2FSkill.mediawiki"
@@ -40,182 +45,39 @@
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Property%2FLevel.mediawiki"
                 },
                 {
-                    "name": "Department",
-                    "namespace": "SMW_NS_PROPERTY",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Property%2FDepartment.mediawiki"
-                },
-                {
-                    "name": "Name",
-                    "namespace": "SMW_NS_PROPERTY",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Property%2FName.mediawiki"
-                },
-                {
-                    "name": "Infobox Employee",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FInfobox%20Employee.mediawiki"
-                },
-                {
                     "name": "Skill",
                     "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/pge-skills-matrix\/master\/Template%2FSkill.mediawiki"
-                },
-                {
-                    "name": "External access",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FExternal%20access.mediawiki"
-                },
-                {
-                    "name": "Lxx",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FLxx.mediawiki"
-                },
-                {
-                    "name": "Service awards",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FService%20awards.mediawiki"
-                },
-                {
-                    "name": "Clear",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FClear.mediawiki"
-                },
-                {
-                    "name": "Note",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FNote.mediawiki"
-                },
-                {
-                    "name": "Infobox Employee",
-                    "namespace": "PF_NS_FORM",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Form%2FInfobox%20Employee.mediawiki"
-                },
-                {
-                    "name": "Get skill cell",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FGet%20skill%20cell.mediawiki"
-                },
-                {
-                    "name": "Users",
-                    "namespace": "NS_CATEGORY",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Category%2FUsers.mediawiki"
-                },
-                {
-                    "name": "Service awards",
-                    "namespace": "NS_MAIN",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Main%2FService%20awards.mediawiki"
-                },
-                {
-                    "name": "User skill",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FUser%20skill.mediawiki"
-                },
-                {
-                    "name": "Registered Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FRegistered%20Editor.mediawiki"
-                },
-                {
-                    "name": "Novice Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FNovice%20Editor.mediawiki"
-                },
-                {
-                    "name": "Apprentice Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FApprentice%20Editor.mediawiki"
-                },
-                {
-                    "name": "Journeyman Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FJourneyman%20Editor.mediawiki"
-                },
-                {
-                    "name": "Yeoman Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FYeoman%20Editor.mediawiki"
-                },
-                {
-                    "name": "Experienced Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FExperienced%20Editor.mediawiki"
-                },
-                {
-                    "name": "Veteran Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FVeteran%20Editor.mediawiki"
-                },
-                {
-                    "name": "Veteran Editor II",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FVeteran%20Editor%20II.mediawiki"
-                },
-                {
-                    "name": "Veteran Editor III",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FVeteran%20Editor%20III.mediawiki"
-                },
-                {
-                    "name": "Veteran Editor IV",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FVeteran%20Editor%20IV.mediawiki"
-                },
-                {
-                    "name": "Senior Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FSenior%20Editor.mediawiki"
-                },
-                {
-                    "name": "Senior Editor II",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FSenior%20Editor%20II.mediawiki"
-                },
-                {
-                    "name": "Senior Editor III",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FSenior%20Editor%20III.mediawiki"
-                },
-                {
-                    "name": "Master Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FMaster%20Editor.mediawiki"
-                },
-                {
-                    "name": "Master Editor II",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FMaster%20Editor%20II.mediawiki"
-                },
-                {
-                    "name": "Master Editor III",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FMaster%20Editor%20III.mediawiki"
-                },
-                {
-                    "name": "Master Editor IV",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FMaster%20Editor%20IV.mediawiki"
-                },
-                {
-                    "name": "Grandmaster Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FGrandmaster%20Editor.mediawiki"
-                },
-                {
-                    "name": "Grandmaster Editor First-Class",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FGrandmaster%20Editor%20First-Class.mediawiki"
-                },
-                {
-                    "name": "Vanguard Editor",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FVanguard%20Editor.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FSkill.mediawiki"
                 },
                 {
                     "name": "Set validation",
                     "namespace": "NS_TEMPLATE",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FSet%20validation.mediawiki"
+                },
+                {
+                    "name": "DisplaySkills",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FDisplaySkills.mediawiki"
+                },
+                {
+                    "name": "Skills",
+                    "namespace": "PF_NS_FORM",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Form%2FSkills.mediawiki"
+                },
+                {
+                    "name": "EditSkills",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FEditSkills.mediawiki"
+                },
+                {
+                    "name": "Skill",
+                    "namespace": "NS_TEMPLATE",
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FSkill.mediawiki"
                 }
             ],
-            "requiredExtensions": []
+            "requiredExtensions": [
+                "PageForms"
+            ]
         }
     }
 }

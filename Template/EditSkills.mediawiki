@@ -1,0 +1,1 @@
+<includeonly>[[Special:FormEdit/Skills/{{FULLPAGENAME}}|Add or change the skills on this page]]</includeonly>

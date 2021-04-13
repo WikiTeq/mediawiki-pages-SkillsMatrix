@@ -1,7 +1,0 @@
-[[File:YeomanEditor.jpg|{{{size|frame}}}|{{{caption|This user is a '''[[Service awards#Yeoman_Editor|Yeoman Editor]]''' and is entitled to display this '''Service Badge'''.<br>Edits: {{Special:Editcount/{{PAGENAME}}}} }}}]]<noinclude>
-
-{{clear}}
-==Usage==
-Place the following on your user page:
-<pre>{{Yeoman Editor}}</pre>
-</noinclude>

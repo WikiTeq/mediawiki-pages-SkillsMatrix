@@ -1,7 +1,0 @@
-[[File:Registered editor badge with tildes.jpg|{{{size|frame}}}|{{{caption|This user is a '''[[Service awards#Registered_Editor|Registered Editor]]''' and is entitled to display this '''Service Badge'''.<br>Edits: {{Special:Editcount/{{PAGENAME}}}} }}}]]<noinclude>
-
-{{clear}}
-==Usage==
-Place the following on your user page:
-<pre>{{Registered Editor}}</pre>
-</noinclude>

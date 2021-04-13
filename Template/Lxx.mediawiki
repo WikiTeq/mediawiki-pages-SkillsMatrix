@@ -1,4 +1,0 @@
-<includeonly><span class="plainlinks nourlexpansion lxx"> <tt>(</tt>[{{fullurl:{{{1}}}{{{2}}}|action=edit}} edit]<tt>&#124;</tt>[[{{{3}}}:{{{2}}}|{{{4}}}]]<tt>&#124;</tt>[{{fullurl:{{{1}}}{{{2}}}|action=history}} history]<tt>&#124;</tt>[{{fullurl:Special:Whatlinkshere/{{{1}}}{{{2}}}|limit=999}} links]<tt>&#124;</tt>[{{fullurl:{{{1}}}{{{2}}}|action=watch}} watch]<tt>&#124;</tt>[{{fullurl:Special:Log|page={{urlencode:{{{1}}}{{{2}}}}}}} logs]<tt>)</tt></span></includeonly><noinclude>
-Template that is transcluded into User pages by [[Template:Infobox Employee]]. It displays a row of helpful internal links.
-<!-- Add categories and interwikis to the /doc subpage, not here! -->
-</noinclude>

@@ -1,7 +1,0 @@
-[[File:MasterEditorII.jpg|{{{size|frame}}}|{{{caption|This user is a '''[[Service awards#Master_Editor_II|Master Editor II]]''' and is entitled to display this '''Service Badge'''.<br>Edits: {{Special:Editcount/{{PAGENAME}}}} }}}]]<noinclude>
-
-{{clear}}
-==Usage==
-Place the following on your user page:
-<pre>{{Master Editor II}}</pre>
-</noinclude>
