@@ -4,8 +4,8 @@
     "language": "en",
     "url": "https:\/\/github.com\/WikiWorks\/skills-matrix",
     "packages": {
-        "Skills matrix": {
-            "globalID": "Skills.matrix",
+        "SkillsMatrix": {
+            "globalID": "SkillsMatrix",
             "description": "Skills matrix",
             "version": "1",
             "pages": [
