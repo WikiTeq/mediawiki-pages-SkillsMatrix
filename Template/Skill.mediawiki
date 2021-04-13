@@ -1,1 +1,1 @@
-<includeonly>{{#subobject:|Skill={{{Skill|}}}|Level={{{Level|}}}}}{{#ifeq:{{{Level|}}}|E|{{{Skill|}}};}}</includeonly>
+<includeonly>{{#subobject:|Skill={{{Skill|}}}|Level={{{Level|}}}}}</includeonly>

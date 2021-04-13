@@ -68,11 +68,6 @@
                     "name": "EditSkills",
                     "namespace": "NS_TEMPLATE",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FEditSkills.mediawiki"
-                },
-                {
-                    "name": "Skill",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FSkill.mediawiki"
                 }
             ],
             "requiredExtensions": [
