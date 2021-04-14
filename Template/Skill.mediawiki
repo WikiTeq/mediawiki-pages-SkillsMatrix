@@ -1,1 +1,1 @@
-<includeonly>{{#subobject:|Skill={{{Skill|}}}|Level={{{Level|}}}}}</includeonly>
+<includeonly>{{#subobject:|Skill={{{Skill|}}}|Level={{{Level|}}}}}{{{Skill|}}}({{{Level|}}})</includeonly>

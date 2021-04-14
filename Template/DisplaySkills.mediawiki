@@ -1,1 +1,0 @@
-<includeonly>Skills: {{#ask:[[-Has subobject::{{FULLPAGENAME}}]]|mainlabel=-|?Skill=|?Level=|format=plainlist|default=-|link=none}} </includeonly>

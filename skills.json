@@ -55,11 +55,6 @@
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FSet%20validation.mediawiki"
                 },
                 {
-                    "name": "DisplaySkills",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Template%2FDisplaySkills.mediawiki"
-                },
-                {
                     "name": "Skills",
                     "namespace": "PF_NS_FORM",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/skills-matrix\/master\/Form%2FSkills.mediawiki"
