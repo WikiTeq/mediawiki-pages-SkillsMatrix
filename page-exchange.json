@@ -2,7 +2,7 @@
     "publisher": "PagePort",
     "author": "WikiTeq",
     "language": "en",
-    "url": "https:\/\/github.com\/WikiTeq\/mediawiki-pages-Skillsmatrix",
+    "url": "https:\/\/github.com\/WikiTeq\/mediawiki-pages-SkillsMatrix",
     "packages": {
         "SkillsMatrix": {
             "globalID": "SkillsMatrix",
@@ -12,57 +12,57 @@
                 {
                     "name": "Skills matrix",
                     "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-Skillsmatrix\/master\/Template%2FSkills%20matrix.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Template%2FSkills%20matrix.mediawiki"
                 },
                 {
                     "name": "Get color",
                     "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-Skillsmatrix\/master\/Template%2FGet%20color.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Template%2FGet%20color.mediawiki"
                 },
                 {
                     "name": "Get linked user name",
                     "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-Skillsmatrix\/master\/Template%2FGet%20linked%20user%20name.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Template%2FGet%20linked%20user%20name.mediawiki"
                 },
                 {
                     "name": "Query linked user page",
                     "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-Skillsmatrix\/master\/Template%2FQuery%20linked%20user%20page.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Template%2FQuery%20linked%20user%20page.mediawiki"
                 },
                 {
                     "name": "Get skill cell",
                     "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-Skillsmatrix\/master\/Template%2FGet%20skill%20cell.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Template%2FGet%20skill%20cell.mediawiki"
                 },
                 {
                     "name": "Skill",
                     "namespace": "SMW_NS_PROPERTY",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-Skillsmatrix\/master\/Property%2FSkill.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Property%2FSkill.mediawiki"
                 },
                 {
                     "name": "Level",
                     "namespace": "SMW_NS_PROPERTY",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-Skillsmatrix\/master\/Property%2FLevel.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Property%2FLevel.mediawiki"
                 },
                 {
                     "name": "Skill",
                     "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-Skillsmatrix\/master\/Template%2FSkill.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Template%2FSkill.mediawiki"
                 },
                 {
                     "name": "Set validation",
                     "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-Skillsmatrix\/master\/Template%2FSet%20validation.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Template%2FSet%20validation.mediawiki"
                 },
                 {
                     "name": "Skills",
                     "namespace": "PF_NS_FORM",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-Skillsmatrix\/master\/Form%2FSkills.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Form%2FSkills.mediawiki"
                 },
                 {
                     "name": "EditSkills",
                     "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-Skillsmatrix\/master\/Template%2FEditSkills.mediawiki"
+                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Template%2FEditSkills.mediawiki"
                 }
             ],
             "requiredExtensions": [
