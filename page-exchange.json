@@ -5,7 +5,7 @@
     "url": "https:\/\/github.com\/WikiTeq\/mediawiki-pages-SkillsMatrix",
     "packages": {
         "SkillsMatrix": {
-            "globalID": "SkillsMatrix",
+            "globalID": "com.wikiteq.SkillsMatrix",
             "description": "Skills matrix",
             "version": "1",
             "pages": [
