@@ -1,1 +1,2 @@
-<includeonly>{{#subobject:|Skill={{{Skill|}}}|Level={{{Level|}}}}}{{{Skill|}}}({{{Level|}}})</includeonly>
+<includeonly>{{#subobject:|Skill={{{Skill|}}}|Level={{{Level|}}}}}<!--
+--><small class="alert-{{#switch:{{{Level|}}}|E=success|C=primary|T=secondary}} border border-{{#switch:{{{Level|}}}|E=success|C=primary|T=secondary}} rounded-0 pl-2"><span class="d-none">&middot;</span> {{{Skill|}}} <span class="badge badge-{{#switch:{{{Level|}}}|E=success|C=primary|T=secondary}} rounded-0 fa-1x ml-1"><span class="d-none"><nowiki>[</nowiki></span>{{{Level|}}}<span class="d-none"><nowiki>]</nowiki></span></span></small></includeonly>

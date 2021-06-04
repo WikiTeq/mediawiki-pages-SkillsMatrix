@@ -1,1 +1,1 @@
-<includeonly>[[Special:FormEdit/Skills/{{FULLPAGENAME}}|Add or change the skills on this page]]</includeonly>
+<includeonly>[[Special:FormEdit/Skills/{{FULLPAGENAME}}|<span title="Add or change the skills on this page" class="btn btn-sm btn-danger float-right py-0">± Skills</span>]]</includeonly>
