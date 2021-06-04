@@ -9,6 +9,7 @@ template to display a skills matrix with all users' data.
 * PageForms
 * ParserFunctions
 * PageExchange or PagePort
+* Bootstrap (optional) - Without it, the styling will be very plain
 
 # Setup
 
