@@ -3,50 +3,47 @@
 {{#arraymap:{{#show:Property:Skill|?Allows value|valuesep=;}}|;|x|
 ! [[x]]
 |\n}}
-{{#arraymap:{{#show:Property:Level|?Allows value|valuesep=;}}|;|xyz|
-! style="background-color: #{{Get color|xyz}};" {{!}}xyz|\n}}
+! Complete
 |-
 {{#arraymap:<!--All users in this department/wiki-->{{#ask:
-[[User:+]]
-{{#if:{{{1|}}}|
-[[Department::{{{1|}}}]]}}
-[[Has subobject::+]]
-|sep=;
-|link=none
-}}|;|x|<tr>
+    [[User:+]]
+    {{#if:{{{1|}}}
+      |[[Department::{{{1|}}}]]
+    }}
+    [[Has subobject::+]]
+    |sep=;
+    |link=none
+  }}|;
+    |x
+    |
+<tr>
 <td>{{Query linked user page|x}}</td>
-{{#arraymap:{{#show:Property:Skill|?Allows value|valuesep=;}}|;|abc|
-{{#ask:[[-Has subobject::x]][[Skill::abc]]|?Level|mainlabel=-|headers=hide|template=Get skill cell|default=<td></td>}}
-|\n}}<!-- RIGHT-SIDE TOTALS -->
-{{#arraymap:{{#show:Property:Level|?Allows value|valuesep=;}}|;|jkl|
+{{#arraymap:{{#show:Property:Skill|?Allows value|valuesep=;}}
+  |;
+  |abc
+  |{{#ask:[[-Has subobject::x]][[Skill::abc]]|?Level|mainlabel=-|headers=hide|template=Get skill cell|default=<td></td>}}
+  |\n
+}}<!-- RIGHT-SIDE TOTALS -->
 <td>{{#ask:
-[[-Has subobject::x]]
-[[Level::jkl]]
-|format=count
+  [[-Has subobject::x]]
+  [[Level::+]]
+  |format=count
 }}</td>
-|\n}}
-</tr>|\n}}<!-- BOTTOM TOTALS -->
-{{#arraymap:{{#show:Property:Level|?Allows value|valuesep=;}}|;|xyz|
-<tr style="font-size:80%;">
-{{Get skill cell|xyz}}
-{{#arraymap:{{#show:Property:Skill|?Allows value|valuesep=;}}|;|abc|
-<td>{{#ask:
-[[Skill::abc]]
-[[Level::xyz]]
-[[-Has subobject::<q>[[User:+]]{{#if:{{{1|}}}|[[Department::{{{1|}}}]]}}</q>]]
-|format=count
-}}</td>
-|\n}}
 </tr>
-|\n}}
-|}
-
-
-{| class="wikitable"
-|- style="background-color:#{{Get color|E}};"
-| E || Expert
-|- style="background-color:#{{Get color|C}};"
-| C || Competent
-|- style="background-color:#{{Get color|T}};"
-| T || Needs Training
+    |\n
+  }}<!-- BOTTOM TOTALS -->
+<tr>
+{{Get skill cell|Total}}
+{{#arraymap:{{#show:Property:Skill|?Allows value|valuesep=;}}
+  |;
+  |abc
+  |<td>{{#ask:
+     [[Skill::abc]]
+     [[Level::+]]
+     [[-Has subobject::<q>[[User:+]]{{#if:{{{1|}}}|[[Department::{{{1|}}}]]}}</q>]]
+     |format=count
+   }}</td>
+ |\n
+}}
+</tr>
 |}

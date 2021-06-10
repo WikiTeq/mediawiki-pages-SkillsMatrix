@@ -1,1 +1,1 @@
-<includeonly><td style="background-color:#{{Get color|{{{1|}}}}};">{{{1|}}}</td></includeonly>
+<includeonly><td style="background-color:#f0f0f0">{{{1|}}}</td></includeonly>
