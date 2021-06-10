@@ -1,7 +1,18 @@
 This is a property of type [[Has type::Text]].
 
-The allowed values for this property are:
-
-* [[Allows value::E]] - Expert
-* [[Allows value::C]] - Competent
-* [[Allows value::T]] - Needs Training
+{{#if:{{Set validation}}<!-- If the /Values page has contents -->|<!-- then -->
+The allowed values for this property are (sourced from [[:Property:Level/Values]]):
+{{Set validation}}
+|<!-- else -->
+You can customize the names of the levels! Add level names to [[:Property:Level/Values]]. Put each level on its own line. Or just use the default levels:
+* [[Allows value::1]]
+* [[Allows value::2]]
+* [[Allows value::3]]
+* [[Allows value::4]]
+* [[Allows value::5]]
+* [[Allows value::6]]
+* [[Allows value::7]]
+* [[Allows value::8]]
+* [[Allows value::9]]
+* [[Allows value::10]]
+}}

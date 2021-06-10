@@ -1,4 +1,10 @@
 This is a property of type [[Has type::Page]].
 
+{{#if:{{Set validation}}<!-- If the /Values page has contents -->|<!-- then -->
 The allowed values for this property are (sourced from [[:Property:Skill/Values]]):
 {{Set validation}}
+|<!-- else -->
+Add skills to [[:Property:Skill/Values]]. Put each skill on its own line. In the meantime, here are some demo skills:
+* [[Allows value::Demo skill]]
+* [[Allows value::Some other demo skill]]
+}}

@@ -26,5 +26,6 @@ template to display a skills matrix with all users' data.
 
 # Usage
 * Create the page `Property:Skill/Values` on your wiki. Customize it by adding one skill per line.
+* (optional) The default skill levels are 1 through 10. This can be changed. Create the page `Property:Level/Values` on your wiki. Customize it by adding one level per line.
 * Add the `{{EditSkills}}` template to user pages. This will display a form button which allows adding this user's skills.
 * Include the `{{Skills matrix}}` template on any page to display the skills matrix.
