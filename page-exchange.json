@@ -15,11 +15,6 @@
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Template%2FSkills%20matrix.mediawiki"
                 },
                 {
-                    "name": "Get color",
-                    "namespace": "NS_TEMPLATE",
-                    "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Template%2FGet%20color.mediawiki"
-                },
-                {
                     "name": "Get linked user name",
                     "namespace": "NS_TEMPLATE",
                     "url": "https:\/\/raw.githubusercontent.com\/WikiTeq\/mediawiki-pages-SkillsMatrix\/master\/Template%2FGet%20linked%20user%20name.mediawiki"
